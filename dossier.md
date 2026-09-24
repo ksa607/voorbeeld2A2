@@ -9,7 +9,7 @@
 
 ## 📋 Studentgegevens
 
-- **Student:** Voornaam Naam
+- **Student:** Karine Samyn
 - **Studentennummer:** xxxxxxxx
 - **E-mailadres:** <voornaam.naam@student.hogent.be>
 - **Student:** Voornaam Naam
@@ -112,7 +112,6 @@
 > **Instructie:** Vink voor elk groepslid één van de drie opties aan door een 'x' tussen de vierkante haken te plaatsen: `[x]`
 
 - **[Naam student 1]:**
-
   - [ ] Ik heb minder bijgedragen dan mijn groepsgenoot
   - [ ] Ik heb evenveel bijgedragen als mijn groepsgenoot
   - [ ] Ik heb meer bijgedragen dan mijn groepsgenoot
@@ -127,7 +126,6 @@
 > **Instructie:** Geef per persoon een duidelijk overzicht van wat die heeft geïmplementeerd voor het project voor het olod Web Services.
 
 - **[Naam student 1]:**
-
   - [Bijvoorbeeld: Gebruikersregistratie en login systeem]
   - [Bijvoorbeeld: Dashboard met overzicht functionaliteit]
   - [Bijvoorbeeld: Integratietesten voor product endpoints]
@@ -142,7 +140,6 @@
 > **Instructie:** Geef per persoon een duidelijk overzicht van wat die heeft geïmplementeerd voor het project voor het olod Front-end Web Development.
 
 - **[Naam student 1]:**
-
   - [Bijvoorbeeld: Gebruikersregistratie en login systeem]
   - [Bijvoorbeeld: Dashboard met overzicht functionaliteit]
   - [Bijvoorbeeld: Integratietesten voor product endpoints]
